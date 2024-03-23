@@ -1,0 +1,48 @@
+body {
+    padding: 100px;
+
+}
+
+img { 
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+
+h1,h2 {
+    color:rgb(73, 47, 79)
+}
+
+.centro {
+    text-align: center;
+}
+
+.childe {
+    box-sizing: border-box;
+}
+
+.parent {
+    display: flex;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  h1 {
+    text-align: left;
+  }
+
+  p {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
